@@ -2,7 +2,7 @@
 
 Sou fascinado por tecnologia e gosto de um desafio.
 
-## Sobre mim
+## About me
 
 - Técnico em Redes de Computadores
 - Graduando em Análise e Desenvolvimento de Sistemas
