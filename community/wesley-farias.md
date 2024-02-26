@@ -1,29 +1,17 @@
 <h1> <span> Hi, welcome in my profile! </span> </h1>
 
-Sou fascinado por tecnologia e gosto de um desafio. Sou formado em Redes de computadores, onde além de aprender sobre informática básica e infraestrutura, obtive base sobre programação. Atualmente, estou fazendo graduação em Análise e Desenvolvimento de Sistemas e realizando cursos na área, buscando aprendizado e crescimento constante.
+Sou fascinado por tecnologia e gosto de um desafio.
 
+## Sobre mim
+
+- Técnico em Redes de Computadores
+- Graduando em Análise e Desenvolvimento de Sistemas
+
+<br/>
 
 <div class="eae-particle-wrapper " id="eae-particle-6328719">
 <canvas class="particles-js-canvas-el" style="width: 100%; height: 100%;" width="1348" height="435">
 <div class="eae-particle-wrapper " id="eae-particle-6328719"><canvas class="particles-js-canvas-el" style="width: 100%; height: 100%;" width="1348" height="435"></canvas></div>
-
-<table align="center">
-    <tr>
-        <td align="center"><a href="https://github.com/wesley-farias#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=wesley-farias&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/wesley-farias#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=wesley-farias&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/wesley-farias#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-farias&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/wesley-farias#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-farias&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/wesley-farias#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wesley-farias&theme=default"/></a><a href="https://github.com/wesley-farias#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wesley-farias&theme=tokyonight"/></a></td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
-            <a href="https://github.com/wesley-farias#gh-light-mode-only">
-              <img src="https://raw.githubusercontent.com/wesley-farias/wesley-farias/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/>
-            </a>
-    </tr>
-</table>
-
-<br>
 
 ## Softskill
 
@@ -48,8 +36,29 @@ Sou fascinado por tecnologia e gosto de um desafio. Sou formado em Redes de comp
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 </div>
-<br>
-<br>
+
+<br/>
+<br/>
+<br/>
+
+## GitHub Stats
+
+<table align="center">
+            <td rowspan="2" align="center">
+            <a href="https://github.com/wesley-farias#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-farias&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a>
+            <a href="https://github.com/wesley-farias#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-farias&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/wesley-farias#gh-light-mode-only">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=wesley-farias&theme=default"/></a>
+            <a href="https://github.com/wesley-farias#gh-dark-mode-only">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=wesley-farias&theme=tokyonight"/></a>
+        </td>
+                <a href="https://github.com/wesley-farias#gh-light-mode-only">
+              <img src="https://raw.githubusercontent.com/wesley-farias/wesley-farias/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/>
+            </a>
+</table>
+
 <br>
 
 ## Contatos
